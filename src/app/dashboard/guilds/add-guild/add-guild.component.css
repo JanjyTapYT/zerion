@@ -1,0 +1,16 @@
+#preview {
+    height: 75vw;
+}
+
+#previewButton {
+    max-height: 48px;
+}
+
+mat-form-field {
+    margin: 5px;
+}
+
+#editor {
+    min-width: 300px !important;
+    max-width: 425px;
+}
